@@ -501,7 +501,7 @@
       <div class="hero-tag">Available for opportunities</div>
       <h1>Hi, I'm<br><span class="accent">Charlotte.</span></h1>
       <p class="hero-desc">
-        IT enthusiast exploring networks, systems, and cybersecurity.
+        IT enthusiast exploring networks, systems, and infastructure.
         I love solving technical problems and building things that work.
       </p>
       <div class="hero-btns">
@@ -528,7 +528,7 @@
           I enjoy digging into how things work under the hood — whether that's troubleshooting a tricky network issue, setting up a homelab, or learning a new scripting language. I'm always building, breaking, and learning.
         </p>
         <p>
-          When I'm not at a keyboard, I'm probably reading about cybersecurity, tinkering with hardware, or exploring new tools in the tech ecosystem.
+          
         </p>
       </div>
       <div class="stat-block">
